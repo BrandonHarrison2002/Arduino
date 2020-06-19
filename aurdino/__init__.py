@@ -1,6 +1,5 @@
 import  time, serial, json
 
-SettingsName = 'Settings.json'
 class aurdino:
     def __init__(self, com="COM3"):
         self.com = com
