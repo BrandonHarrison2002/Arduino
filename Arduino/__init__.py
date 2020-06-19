@@ -1,6 +1,6 @@
 import  time, serial, json
 
-class aurdino:
+class arduino:
     def __init__(self, com="COM3"):
         self.com = com
         self.ser = serial.Serial(com, 9600, timeout=1)
