@@ -4,4 +4,3 @@
 time
 serial
 json
--e git+https://github.com/Rapptz/discord.py#egg=discord.py
