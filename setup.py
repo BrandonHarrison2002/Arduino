@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='aurdino',
+    name='Arduino',
     version='0.0.1',
     description='My private package from private github repo',
     url='https://github.com/ShaddyDaddy/Aurdino',
     author='ShaddyDaddy',
     license='unlicense',
-    packages=['aurdino'],
+    packages=['Arduino'],
     zip_safe=False
 )
